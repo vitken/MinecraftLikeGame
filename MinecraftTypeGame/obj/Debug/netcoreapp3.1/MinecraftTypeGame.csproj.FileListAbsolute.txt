@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\bin\Debug\netcoreapp3.1\MinecraftTypeGame.deps.json
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\bin\Debug\netcoreapp3.1\MinecraftTypeGame.dll
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\bin\Debug\netcoreapp3.1\MinecraftTypeGame.pdb
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\obj\Debug\netcoreapp3.1\MinecraftTypeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\obj\Debug\netcoreapp3.1\MinecraftTypeGame.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\obj\Debug\netcoreapp3.1\MinecraftTypeGame.AssemblyInfo.cs
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\obj\Debug\netcoreapp3.1\MinecraftTypeGame.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\obj\Debug\netcoreapp3.1\MinecraftTypeGame.dll
+C:\Users\vikto\source\repos\ConsoleApp1\MinecraftTypeGame\obj\Debug\netcoreapp3.1\MinecraftTypeGame.pdb

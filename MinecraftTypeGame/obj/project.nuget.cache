@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOdIiCCa0lv724Mm6N6TWUZCQPlOVBGz4QrQ5erFiwYt0cVA7Uoe78Tr+mORf52zVRF1SZRiOfIk/+u4Rn0cnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\ConsoleApp1\\MinecraftTypeGame\\MinecraftTypeGame.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.medrio.org/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBXqt0NtwjcIP342k4jXXWXBnOF8oRdfo0VwOQ0qalj+5RKIhswudYl1vuxp9W3pOIQSfe/9KtHAHAIEX8L5Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.medrio.org/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
