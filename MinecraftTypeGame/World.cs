@@ -65,6 +65,17 @@ namespace MinecraftTypeGame
             }
         }
 
+        public void Blast(Tuple<int, int> location, int distance)
+        {
+            // Creating fake unique player to perform blast
+            BaseCharacter fakePlayer = new Player(location.Item1, location.Item2, $"blastPlayer_{Guid.NewGuid()}");
+            var nearbyCharacters = FindNearby(fakePlayer, distance);
+            foreach (var character in nearbyCharacters)
+            {
+                character.DecreaseHealth(1);
+            }
+        }
+
         // using old good Pytagoras to determine distance
         private int CalculateCharactersDistance(BaseCharacter character, BaseCharacter anotherCharacter)
         {
